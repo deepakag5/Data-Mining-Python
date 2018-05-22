@@ -6,11 +6,13 @@
 
 1. Download Anaconda from below link :
 
-https://repo.anaconda.com/archive/Anaconda3-5.1.0-Windows-x86_64.exe
+    https://repo.anaconda.com/archive/Anaconda3-5.1.0-Windows-x86_64.exe
 
-2. Follow the link for installation https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444
+2. Follow the link for installation :
 
-(Please select 'Add anaconda to my Path variable option in step 2' so that you don't need to do step 4,5)
+    https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444
+
+    (Please select 'Add anaconda to my Path variable option in step 2' so that you don't need to do step 4,5)
 
 3. Type jupyter notebook in windows search box (or anaconda and then jupyter notebook under it) and click on it.
 
