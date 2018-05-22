@@ -1,6 +1,6 @@
 
 
-## Download and Install Anaconda Data Mining with Python
+## Download and Install Anaconda for Data Mining with Python
 
 ### Windows :
 
